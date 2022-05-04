@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2021-12-06 22:21:07 +0100
+categories: jekyll update
+published: false
+---
+
+
+https://www.how2shout.com/linux/how-to-install-qemu-kvm-and-virt-manager-gui-on-ubuntu-20-04-lts/
+
+sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils
+
+
+lsb_release -r
+https://repogen.simplylinux.ch/
+
+https://gist.github.com/ishad0w/788555191c7037e249a439542c53e170
+
+https://www.atechtown.com/install-qemu-on-ubuntu/
+
+
+
+apt-get install qemu
+
+
